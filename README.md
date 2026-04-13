@@ -2,12 +2,12 @@
 
 folder: StandaloneWindows64
 
-catalog_1.hash -> 0a44075281e166296fe73b0486588127                         </br>
+catalog_1.hash -> 021ed0fdc6126df549f3d81248fdd4c6                         </br>
                                                                            </br>
 catalog_1.json:                                                            </br>
-v2.0.4                                                                     </br>
-defaultlocalgroup_assets_all_247197ad448d621e6f8a6864cd90bd24.bundle       </br>
-remote_edifici_assets_all_0bc5c432214f71eb82658e1ca6e2d6c8.bundle          </br>
+v2.0.6                                                                     </br>
+defaultlocalgroup_assets_all_340ee18054ee45dc5014c38425d9d60c.bundle       </br>
+remote_edifici_assets_all_cf292c2fcdbcdad587452eabaa225c51.bundle          </br>
 
 Tags:
-v2.0.4 -> 11 Aprile 26
+v2.0.6 -> 13 Aprile 26
